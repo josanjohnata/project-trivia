@@ -2,7 +2,7 @@
 
 Desenvolvimento de um jogo de perguntas e respostas baseado no jogo **Trivia** no formato Web, utilizando _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demanas definidas em um quadro _Kanban_. 
 
- <a href="http://josanjohnata.github.io/project-trivia">Clique aqui para conferir o Deploy.</a>
+ <a href="http://josanjohnata.github.io/project-trivia">Clique aqui para conferir o jogo e divirta-se. </a>
 
 <p float="left">
 <img width="500" margin:"5px" src="src/images/trivia1.gif">

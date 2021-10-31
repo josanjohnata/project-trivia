@@ -2,7 +2,7 @@
 
 Desenvolvimento de um jogo de perguntas e respostas baseado no jogo **Trivia** no formato Web, utilizando _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demanas definidas em um quadro _Kanban_. 
 
- <a href="https://diogoaugusto.dev/project-trivia/">Clique aqui para conferir o Deploy.</a>
+ <a href="http://josanjohnata.github.io/project-trivia">Clique aqui para conferir o jogo e divirta-se. </a>
 
 <p float="left">
 <img width="500" margin:"5px" src="src/images/trivia1.gif">
@@ -31,8 +31,8 @@ Desenvolvimento de um jogo de perguntas e respostas baseado no jogo **Trivia** n
 
 - [Marcos Mantovani](https://github.com/mvmes2)
 
- ### <a href="https://diogoaugusto.dev/" target="blank">👉 Clique e Confira meu Portfólio</a>
+ ### <a href="https://josanjohnata.github.io/Josan-Johnata-Portfolio/" target="blank">👉 Clique e Confira meu Portfólio</a>
 
  ### 🤝 Conecte-se Comigo:
-<a href="https://linkedin.com/in/diogoaugusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogoaugusto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josanjohnata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josanjohnata" height="30" width="40" /></a>
 # project-trivia
